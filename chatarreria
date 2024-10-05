@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chatarreria - Plan estrategico</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            color: #332;
+        }
+        header {
+            background-color: #f73f00;
+            color:blue;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav {
+            margin: 10px;
+            text-align: center;
+        }
+        nav a {
+            margin: 0 15px;
+            color: #333;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        section {
+            margin: 20px;
+        }
+        footer {
+            background-color: #333;
+            color: green;
+            text-align: center;
+            padding: 10px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: white;
+            padding: 20px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        .sostenibilidad {
+            background-color: #f77f00;
+            color: white;
+            padding: 10px;
+            text-align: center;
+        }
+        .sostenibilidad p {
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Chatarreria la isla </h1>
+    <p> Estrategico para ecología y recolección de residuos</p>
+</header>
+
+<nav>
+    <a href="#objetivos">Objetivos</a>
+    <a href="#estrategias">Estrategias</a>
+    <a href="#sostenibilidad">Sostenibilidad</a>
+    <a href="#contacto">Contacto</a>
+</nav>
+
+<section id="objetivos" class="container">
+    <h2>Objetivos del Negocio</h2>
+    <ul>
+        <li>crean un vinculo con los proveedores sean recurrentes .</li>
+        <li> fidelización con los  clientes .</li>
+        <li>Poder incurrir en la trasnformacion de la materia prima  para oferta variedad de productos  li>
+        <li> Crear  otras fuentes de porveedores y clientes mas variedad.</li>
+    </ul>
+</section>
+
+<section id="estrategias" class="container">
+    <h2>Estrategias Tácticas</h2>
+    <ol>
+        <li>Mantener actualizado sobre las fluctuaciones de los precios de los diferentes metales. Esto te permitirá negociar de manera más efectiva y maximizar tus ganancias.</li>
+        <li>Identifica a tus competidores directos e indirectos y analiza sus fortalezas y debilidades. Esto te ayudará a diferenciar tu negocio y ofrecer mejores servicios.</li>
+        <li>Ofrece servicios de recolección de chatarra a domicilio o en el lugar de generación de residuos. Esto te permitirá llegar a un público más amplio y generar mayor volumen de negocio. </li>
+        <li>Crear redes sociales (Instagram) para llegar atraer mas clientes o mas proveedores.</li>
+    </ol>
+</section>
+
+<section id="sostenibilidad" class="container">
+    <h2>Sostenibilidad</h2>
+    <div class="sostenibilidad">
+        <p>Compromiso con el Medio Ambiente</p>
+    </div>
+    <ul>
+        <li>Al reciclar metales, se disminuye la necesidad de extraer nuevos minerales de la tierra. Esto implica una menor explotación de recursos naturales y una reducción del impacto ambiental asociado a la minería. </li>
+        <li>Los residuos de metales, si no se reciclan, pueden contaminar el suelo, el agua y el aire. Al reciclar la chatarra, se evita esta contaminación y se protege el medio ambiente. </li>
+        <li>Al reciclar la chatarra, se reduce el volumen de residuos que terminan en vertederos. Esto contribuye a prolongar la vida útil de los vertederos y a disminuir la generación de gases contaminantes. </li>
+        <li>Las chatarrerías son un eslabón fundamental en la economía circular, un modelo económico que promueve la reutilización y el reciclaje de materiales.</li>
+    </ul>
+</section>
+
+<section id="contacto" class="container">
+    <h2>Contacto</h2>
+    <p>Dirección: Chatarreria la isla </p>
+    <p>Teléfono: 3117728232</p>
+
+</section>
+
+<footer>
+    <p>&copy;</p>
+</footer>
+
+</body>
+</html>
